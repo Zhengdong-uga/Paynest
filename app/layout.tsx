@@ -12,8 +12,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "Horizon",
-  description: "Horizon is a modern banking platform for everyone.",
+  title: "Paynest",
+  description: "Paynest is a modern, full-stack banking application that enables users to securely connect real bank accounts, track transactions, and transfer money with ease. ",
   icons: {
     icon: '/icons/logo.svg'
   }
